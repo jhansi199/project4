@@ -1,5 +1,4 @@
-name: Build and Deploy to GKE
-
+name: my first CICD
 on:
   push:
     branches:
